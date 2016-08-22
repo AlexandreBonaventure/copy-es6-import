@@ -1,0 +1,7 @@
+'context-menu':
+  '.tree-view .file': [
+    {
+      'label': 'Copy ES6 import'
+      'command': 'copy-es6-import:copy-path'
+    }
+  ]
