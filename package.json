@@ -1,7 +1,7 @@
 {
   "name": "copy-es6-import",
   "main": "./lib/copy-es6-import",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Allows you to copy import path to current file from tree view.",
   "keywords": [
     "es6",
